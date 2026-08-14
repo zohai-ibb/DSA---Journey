@@ -1,7 +1,13 @@
 class Solution {
-    public int fib(int n) {
-        if(n == 0) return 0;
-        if(n == 1) return 1;
-        return fib(n - 1) + fib(n - 2);
+    public int fib(int N) {
+        if (N <= 1) {
+            return N;
+        }
+
+        // Recursive case: calculate previous two terms
+        int last = fib(N - 1);    // (N-1)th term
+        int slast = fib(N - 2);   // (N-2)th term
+
+        return last + slast;
     }
 }
