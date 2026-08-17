@@ -5,11 +5,11 @@ class Solution {
         while(i != arr.length) {
             if(arr[j] == arr[i]) {
                 i++;
-                continue;
-            }
+            } else {
             j++;
             arr[j] = arr[i];
             i++;
+            }
         }
         return j + 1;
     }
