@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zohai-ibb/DSA---Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/zohai-ibb/DSA---Journey/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/zohai-ibb/DSA---Journey/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/zohai-ibb/DSA---Journey/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/zohai-ibb/DSA---Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/zohai-ibb/DSA---Journey/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/zohai-ibb/DSA---Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/zohai-ibb/DSA---Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zohai-ibb/DSA---Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/zohai-ibb/DSA---Journey/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/zohai-ibb/DSA---Journey/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/zohai-ibb/DSA---Journey/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -64,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/zohai-ibb/DSA---Journey/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/zohai-ibb/DSA---Journey/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/zohai-ibb/DSA---Journey/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/zohai-ibb/DSA---Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
