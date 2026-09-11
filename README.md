@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/zohai-ibb/DSA---Journey/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/zohai-ibb/DSA---Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/zohai-ibb/DSA---Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/zohai-ibb/DSA---Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zohai-ibb/DSA---Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3483-unique-3-digit-even-numbers](https://github.com/zohai-ibb/DSA---Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zohai-ibb/DSA---Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/zohai-ibb/DSA---Journey/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/zohai-ibb/DSA---Journey/tree/master/0560-subarray-sum-equals-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/zohai-ibb/DSA---Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/zohai-ibb/DSA---Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/zohai-ibb/DSA---Journey/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
