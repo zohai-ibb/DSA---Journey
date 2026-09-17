@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zohai-ibb/DSA---Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/zohai-ibb/DSA---Journey/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/zohai-ibb/DSA---Journey/tree/master/0125-valid-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zohai-ibb/DSA---Journey/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/zohai-ibb/DSA---Journey/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/zohai-ibb/DSA---Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/zohai-ibb/DSA---Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zohai-ibb/DSA---Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/zohai-ibb/DSA---Journey/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/zohai-ibb/DSA---Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
