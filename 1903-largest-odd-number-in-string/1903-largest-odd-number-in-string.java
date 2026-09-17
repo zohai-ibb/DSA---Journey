@@ -1,10 +1,16 @@
 class Solution {
-    public String largestOddNumber(String str) {
-        while(str.length() > 0){
-            int num = str.charAt(str.length() - 1) - '0';
-            if(num % 2 == 1) return str;
-            else str = str.substring(0, str.length() - 1);
+        public String largestOddNumber(String num) {
+          int ind = -1;
+        for(int i=num.length()-1;i>=0;i--){
+            int digit = num.charAt(i)-'0';
+            if(digit%2!=0){
+                ind = i;
+                break;
+            }
         }
-        return "";
+        if(ind==-1){
+            return "";
+        }
+        return num.substring(0,ind+1);
     }
 }
