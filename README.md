@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/zohai-ibb/DSA---Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/zohai-ibb/DSA---Journey/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/zohai-ibb/DSA---Journey/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/zohai-ibb/DSA---Journey/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/zohai-ibb/DSA---Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/zohai-ibb/DSA---Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/zohai-ibb/DSA---Journey/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/zohai-ibb/DSA---Journey/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/zohai-ibb/DSA---Journey/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/zohai-ibb/DSA---Journey/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/zohai-ibb/DSA---Journey/tree/master/3483-unique-3-digit-even-numbers) |
