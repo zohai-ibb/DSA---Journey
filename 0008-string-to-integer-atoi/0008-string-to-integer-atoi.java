@@ -1,0 +1,49 @@
+class Solution {
+    public static int myAtoi(String str) {
+
+    String s = str.trim();
+
+    if (s.length() == 0) {
+        return 0;
+    }
+
+    int i = 0;
+    long num = 0;
+    int sign = 1;
+
+    if (s.charAt(i) == '-') {
+        sign = -1;
+        i++;
+    } else if (s.charAt(i) == '+') {
+        i++;
+    }
+
+    while (i < s.length()) {
+
+        if (!isNum(s.charAt(i))) {
+            break;
+        }
+
+        int digit = s.charAt(i) - '0';
+
+        num = num * 10 + digit;
+
+        // Check range
+        if (sign == 1 && num > Integer.MAX_VALUE) {
+            return Integer.MAX_VALUE;
+        }
+
+        if (sign == -1 && -num < Integer.MIN_VALUE) {
+            return Integer.MIN_VALUE;
+        }
+
+        i++;
+    }
+
+    return (int) (num * sign);
+}
+
+static boolean isNum(char ch) {
+    return ch >= '0' && ch <= '9';
+}
+}
