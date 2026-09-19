@@ -1,16 +1,15 @@
 class Solution {
-        public String largestOddNumber(String num) {
-          int ind = -1;
-        for(int i=num.length()-1;i>=0;i--){
-            int digit = num.charAt(i)-'0';
-            if(digit%2!=0){
-                ind = i;
-                break;
+    public String largestOddNumber(String str) {
+        int i = str.length() - 1;
+
+        while(i >= 0){
+            int digit = str.charAt(i);
+            if(digit % 2 == 0){
+                i--;
+            } else {
+                return str.substring(0, i + 1);
             }
         }
-        if(ind==-1){
-            return "";
-        }
-        return num.substring(0,ind+1);
+        return "";
     }
 }
