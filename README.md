@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zohai-ibb/DSA---Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/zohai-ibb/DSA---Journey/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/zohai-ibb/DSA---Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/zohai-ibb/DSA---Journey/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/zohai-ibb/DSA---Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/0151-reverse-words-in-a-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/zohai-ibb/DSA---Journey/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/zohai-ibb/DSA---Journey/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/zohai-ibb/DSA---Journey/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1903-largest-odd-number-in-string) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/zohai-ibb/DSA---Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zohai-ibb/DSA---Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/zohai-ibb/DSA---Journey/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/zohai-ibb/DSA---Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/zohai-ibb/DSA---Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/zohai-ibb/DSA---Journey/tree/master/0169-majority-element) |
