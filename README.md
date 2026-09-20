@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/zohai-ibb/DSA---Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/zohai-ibb/DSA---Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zohai-ibb/DSA---Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/zohai-ibb/DSA---Journey/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/zohai-ibb/DSA---Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/zohai-ibb/DSA---Journey/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/zohai-ibb/DSA---Journey/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/zohai-ibb/DSA---Journey/tree/master/0509-fibonacci-number) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
