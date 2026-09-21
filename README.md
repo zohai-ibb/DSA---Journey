@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/zohai-ibb/DSA---Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/zohai-ibb/DSA---Journey/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/zohai-ibb/DSA---Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0686-repeated-string-match](https://github.com/zohai-ibb/DSA---Journey/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/zohai-ibb/DSA---Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/zohai-ibb/DSA---Journey/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/0796-rotate-string) |
 ## Stack
 |  |
@@ -261,4 +263,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/zohai-ibb/DSA---Journey/tree/master/0005-longest-palindromic-substring) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/zohai-ibb/DSA---Journey/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/zohai-ibb/DSA---Journey/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/zohai-ibb/DSA---Journey/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
