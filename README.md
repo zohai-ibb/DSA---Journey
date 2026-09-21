@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/zohai-ibb/DSA---Journey/tree/master/0283-move-zeroes) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/zohai-ibb/DSA---Journey/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1813-sentence-similarity-iii](https://github.com/zohai-ibb/DSA---Journey/tree/master/1813-sentence-similarity-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zohai-ibb/DSA---Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zohai-ibb/DSA---Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/zohai-ibb/DSA---Journey/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/zohai-ibb/DSA---Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1813-sentence-similarity-iii](https://github.com/zohai-ibb/DSA---Journey/tree/master/1813-sentence-similarity-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/zohai-ibb/DSA---Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/zohai-ibb/DSA---Journey/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/zohai-ibb/DSA---Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1813-sentence-similarity-iii](https://github.com/zohai-ibb/DSA---Journey/tree/master/1813-sentence-similarity-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/zohai-ibb/DSA---Journey/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zohai-ibb/DSA---Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3483-unique-3-digit-even-numbers](https://github.com/zohai-ibb/DSA---Journey/tree/master/3483-unique-3-digit-even-numbers) |
