@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/zohai-ibb/DSA---Journey/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/zohai-ibb/DSA---Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/zohai-ibb/DSA---Journey/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/zohai-ibb/DSA---Journey/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/zohai-ibb/DSA---Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/zohai-ibb/DSA---Journey/tree/master/0205-isomorphic-strings) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/zohai-ibb/DSA---Journey/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/zohai-ibb/DSA---Journey/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/zohai-ibb/DSA---Journey/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/zohai-ibb/DSA---Journey/tree/master/0509-fibonacci-number) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/zohai-ibb/DSA---Journey/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/zohai-ibb/DSA---Journey/tree/master/0054-spiral-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/zohai-ibb/DSA---Journey/tree/master/0885-spiral-matrix-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zohai-ibb/DSA---Journey/tree/master/2149-rearrange-array-elements-by-sign) |
