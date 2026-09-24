@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/zohai-ibb/DSA---Journey/tree/master/0283-move-zeroes) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/zohai-ibb/DSA---Journey/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/zohai-ibb/DSA---Journey/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1813-sentence-similarity-iii](https://github.com/zohai-ibb/DSA---Journey/tree/master/1813-sentence-similarity-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zohai-ibb/DSA---Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-number-of-ways-to-split-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zohai-ibb/DSA---Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/zohai-ibb/DSA---Journey/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/zohai-ibb/DSA---Journey/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/zohai-ibb/DSA---Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1813-sentence-similarity-iii](https://github.com/zohai-ibb/DSA---Journey/tree/master/1813-sentence-similarity-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1903-largest-odd-number-in-string) |
