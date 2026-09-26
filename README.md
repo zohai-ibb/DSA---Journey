@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/zohai-ibb/DSA---Journey/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/zohai-ibb/DSA---Journey/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/zohai-ibb/DSA---Journey/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/zohai-ibb/DSA---Journey/tree/master/0048-rotate-image) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/zohai-ibb/DSA---Journey/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/zohai-ibb/DSA---Journey/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/zohai-ibb/DSA---Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/zohai-ibb/DSA---Journey/tree/master/0686-repeated-string-match) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/zohai-ibb/DSA---Journey/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
