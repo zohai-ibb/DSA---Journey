@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/zohai-ibb/DSA---Journey/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/zohai-ibb/DSA---Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/zohai-ibb/DSA---Journey/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zohai-ibb/DSA---Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/zohai-ibb/DSA---Journey/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/zohai-ibb/DSA---Journey/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/zohai-ibb/DSA---Journey/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/zohai-ibb/DSA---Journey/tree/master/0509-fibonacci-number) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/zohai-ibb/DSA---Journey/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
