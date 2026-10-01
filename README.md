@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zohai-ibb/DSA---Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/zohai-ibb/DSA---Journey/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/zohai-ibb/DSA---Journey/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/zohai-ibb/DSA---Journey/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/zohai-ibb/DSA---Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1813-sentence-similarity-iii](https://github.com/zohai-ibb/DSA---Journey/tree/master/1813-sentence-similarity-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1903-largest-odd-number-in-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/zohai-ibb/DSA---Journey/tree/master/0509-fibonacci-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/zohai-ibb/DSA---Journey/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1573-number-of-ways-to-split-a-string) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/zohai-ibb/DSA---Journey/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/zohai-ibb/DSA---Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
